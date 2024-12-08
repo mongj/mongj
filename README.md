@@ -1,4 +1,10 @@
 ## Hi there 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mongj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+- 👨‍💻 Studying CS at National University of Singapore (NUS)
+- 📫 Reach me at **mjzhang@u.nus.edu**, or via <a href="https://linkedin.com/in/riccolim" target="_blank">linkedin</a>
 
 <!--
 **mongj/mongj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
