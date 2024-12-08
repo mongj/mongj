@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=mongj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+![Profile View Counter](https://komarev.com/ghpvc/?username=mongj)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhangmingjun/)
+
 
 - 👨‍💻 Studying CS at National University of Singapore (NUS)
-- 📫 Reach me at mjzhang@u.nus.edu, or via <a href="https://linkedin.com/in/zhangmingjun" target="_blank">linkedin</a>
+- 📫 Reach me at mjzhang@u.nus.edu
 
 <!--
 **mongj/mongj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
