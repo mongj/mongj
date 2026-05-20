@@ -6,7 +6,7 @@
 
 - 👨‍💻 Studying CS at National University of Singapore (NUS)
 - 🌱 Open to entry-level SWE roles based in SF/NYC/SG
-- ✉️ Reach me at mjzhang@u.nus.edu
+- ✉️ Reach me at evan.zhangmingjun@gmail.com
 
 <!--
 **mongj/mongj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
