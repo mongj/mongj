@@ -5,6 +5,7 @@
 
 
 - 👨‍💻 Studying CS at National University of Singapore (NUS)
+- 🌱 Open to entry-level SWE roles based in SF/NYC/SG
 - ✉️ Reach me at mjzhang@u.nus.edu
 
 <!--
