@@ -8,6 +8,10 @@ I'm Ming Jun, I am currently:
 - 🌱 Open to entry-level SWE roles based in SF/NYC/SG
 - ✉️ Reach me at hi@mingjun.dev
 
+---
+
+My PGP fingerprint: `1D47BF0EC27EBCD59A66224F03D345DCBBDDFF19`
+
 <!--
 **mongj/mongj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
