@@ -3,10 +3,10 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mongj)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhangmingjun/)
 
-
+I'm Ming Jun, I am currently:
 - 👨‍💻 Studying CS at National University of Singapore (NUS)
 - 🌱 Open to entry-level SWE roles based in SF/NYC/SG
-- ✉️ Reach me at evan.zhangmingjun@gmail.com
+- ✉️ Reach me at hi@mingjun.dev
 
 <!--
 **mongj/mongj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
