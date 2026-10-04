@@ -2,6 +2,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mongj)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhangmingjun/)
+<img src="https://mingjun.dev/me.svg" width="1" height="1" alt="">
 
 I'm Ming Jun, I am currently:
 - 👨‍💻 Studying CS at National University of Singapore (NUS)
