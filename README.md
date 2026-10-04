@@ -2,7 +2,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mongj)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhangmingjun/)
-
 <!-- this link is a hack for me to track pageviews overtime-->
 <img src="https://mingjun.dev/me.svg" width="1" height="1" alt="">
 
